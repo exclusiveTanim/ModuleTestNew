@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.1
+apiversion: 2
+description: email_provider
+author: Murtuza Saifee
+license: Blisstering Solutions Pvt. Ltd.
+copyright: Copyright (c) 2014 by Blisstering Solutions Pvt. Ltd.
+
+# these should not be edited
+name: email_provider
+moduleid: com.emailprovider
+guid: 26e90655-4edc-471e-aaee-7e2724c2e7bd
+platform: android
+minsdk: 3.4.1.GA

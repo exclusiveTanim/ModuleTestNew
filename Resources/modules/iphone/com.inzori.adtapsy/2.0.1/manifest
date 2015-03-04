@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 2.0.1
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+description: AdTapsy
+author: Inzori
+license: Specify your license
+copyright: Copyright (c) 2014 by Your Company
+
+# these should not be edited
+name: AdTapsy
+moduleid: com.inzori.adtapsy
+guid: 623179ce-baf5-44da-a2f7-67be98e0a163
+platform: iphone
+minsdk: 3.5.0.GA
